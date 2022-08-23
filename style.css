@@ -1,0 +1,22 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 100px;
+}
+
+h3,
+h1 {
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+body {
+    background-image: url(https://img00.deviantart.net/0050/i/2016/277/6/c/rainbow_gradient_by_wdwparksgal_stock-dajwgft.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
